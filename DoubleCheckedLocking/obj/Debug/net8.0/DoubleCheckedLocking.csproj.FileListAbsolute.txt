@@ -1,0 +1,15 @@
+/Users/jim/Repos/jim-roton/Patterns/DoubleCheckedLocking/bin/Debug/net8.0/DoubleCheckedLocking
+/Users/jim/Repos/jim-roton/Patterns/DoubleCheckedLocking/bin/Debug/net8.0/DoubleCheckedLocking.deps.json
+/Users/jim/Repos/jim-roton/Patterns/DoubleCheckedLocking/bin/Debug/net8.0/DoubleCheckedLocking.runtimeconfig.json
+/Users/jim/Repos/jim-roton/Patterns/DoubleCheckedLocking/bin/Debug/net8.0/DoubleCheckedLocking.dll
+/Users/jim/Repos/jim-roton/Patterns/DoubleCheckedLocking/bin/Debug/net8.0/DoubleCheckedLocking.pdb
+/Users/jim/Repos/jim-roton/Patterns/DoubleCheckedLocking/obj/Debug/net8.0/DoubleCheckedLocking.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jim/Repos/jim-roton/Patterns/DoubleCheckedLocking/obj/Debug/net8.0/DoubleCheckedLocking.AssemblyInfoInputs.cache
+/Users/jim/Repos/jim-roton/Patterns/DoubleCheckedLocking/obj/Debug/net8.0/DoubleCheckedLocking.AssemblyInfo.cs
+/Users/jim/Repos/jim-roton/Patterns/DoubleCheckedLocking/obj/Debug/net8.0/DoubleCheckedLocking.csproj.CoreCompileInputs.cache
+/Users/jim/Repos/jim-roton/Patterns/DoubleCheckedLocking/obj/Debug/net8.0/DoubleCheckedLocking.sourcelink.json
+/Users/jim/Repos/jim-roton/Patterns/DoubleCheckedLocking/obj/Debug/net8.0/DoubleCheckedLocking.dll
+/Users/jim/Repos/jim-roton/Patterns/DoubleCheckedLocking/obj/Debug/net8.0/refint/DoubleCheckedLocking.dll
+/Users/jim/Repos/jim-roton/Patterns/DoubleCheckedLocking/obj/Debug/net8.0/DoubleCheckedLocking.pdb
+/Users/jim/Repos/jim-roton/Patterns/DoubleCheckedLocking/obj/Debug/net8.0/DoubleCheckedLocking.genruntimeconfig.cache
+/Users/jim/Repos/jim-roton/Patterns/DoubleCheckedLocking/obj/Debug/net8.0/ref/DoubleCheckedLocking.dll
